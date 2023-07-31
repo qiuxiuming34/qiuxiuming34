@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @qiuxiuming34
+- 👀 I’m interested in data analyzing. I’m currently learning Python.
+- 🌱 Aspiring data scientist proficient in Python and pandas. 
+- 💞️ Committed to analyzing data and deriving valuable insights.
+- 📫 How to reach me ...
